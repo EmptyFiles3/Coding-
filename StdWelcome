@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+	    <meta charset="UTF-8">
+</head>
+
+<body>
+
+<img src="downloaded/imagesNot.png" height="170" width="370" alt="Notification"/>
+<img src="downloaded/images.png" height="170" width="370" alt="Profile"/>
+<img src="downloaded/imagesChat.png" height="170" width="370" alt="Chat Box"/>
+<img src="downloaded/imagesEvent.jpg" height="170" width="370" alt="Events"/>
+<img src="downloaded/imagesActivity.jpg" height="170" width="370" alt="Review" alt="Review"/>
+</body>
+
+</html>
